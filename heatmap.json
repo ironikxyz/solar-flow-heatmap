@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "date": "2026-11-27",
+  "resolution_minutes": 60,
+  "generated_at": "2026-11-16T21:05:00+00:00",
+  "intensity": [0.05, 0.05, 0.05, 0.05, 0.05, 0.15, 0.4, 0.35, 0.3, 0.55, 0.85, 0.8, 0.45, 0.3, 0.35, 0.5, 0.3, 0.2, 0.15, 0.1, 0.08, 0.05, 0.05, 0.05],
+  "hotspots": [
+    {
+      "id": "morning-light",
+      "name": "Morning Light",
+      "start": "06:00",
+      "end": "07:00",
+      "peak": "06:30",
+      "note": "Get outside within 30 min of waking"
+    },
+    {
+      "id": "peak-focus",
+      "name": "Peak Focus",
+      "start": "10:00",
+      "end": "11:30",
+      "peak": "10:40"
+    },
+    {
+      "id": "afternoon-dip",
+      "name": "Afternoon Dip",
+      "start": "14:30",
+      "end": "15:30"
+    }
+  ]
+}
